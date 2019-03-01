@@ -1,0 +1,57 @@
+
+.conteiner{
+    padding: 23px;
+    text-align: center
+}
+
+.group-label{
+    display:inline-grid;
+    text-decoration-style: unset;
+    text-align: start;
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+
+}
+.educacao{
+    display: flexbox;
+}
+.ui.divider {
+    border-top: 1px solid #2185d0 !important;
+    border-bottom: 1px solid #2185d0 !important;
+}
+.ui.header{
+    color: rgb(43, 152, 148) !important;
+    margin-left: 56px;
+    
+   
+}
+.perfil{
+    display: flex;
+
+
+}
+.ui.list{
+    margin-left: 322px !important;
+   width: 70%;
+   
+  float: left;
+  text-justify: distribute-all-lines;
+  display:block;
+  
+  
+}
+.ui.list .list>.item>i.icon, .ui.list>.item>i.icon{
+    color:rgb(43, 179, 172);
+    margin: 12px;
+    margin-right: 23px !important;
+    font-size: 20px !important;
+    padding: 3px !important;
+
+}
+img{
+   
+    margin-bottom: 20px;
+    
+  
+}
